@@ -19,7 +19,7 @@ dart pub get
 Run the application:
 dart run
 
-Usage
+Usage:
 Launch the app and set your desired temperature threshold.
 CoolGuard will start monitoring the GPU temperature in real time.
 If the temperature drops below the specified limit, the app will safely shut down your computer to prevent hardware damage.
