@@ -1,7 +1,8 @@
 **CoolGuard**
 
 
-![image](https://github.com/user-attachments/assets/68c6441d-3ada-40f0-a473-5c656f010a6e)
+![image](https://github.com/user-attachments/assets/1e8ba0ab-01c4-44d7-90e4-e12f35282544)
+
 
 CoolGuard is a lightweight app designed to monitor GPU temperature in real-time and ensure hardware safety by shutting down the computer when the temperature falls below a critical threshold.
 
