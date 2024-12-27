@@ -1,29 +1,44 @@
-CoolGuard
+**CoolGuard**
+
+
+![image](https://github.com/user-attachments/assets/68c6441d-3ada-40f0-a473-5c656f010a6e)
 
 CoolGuard is a lightweight app designed to monitor GPU temperature in real-time and ensure hardware safety by shutting down the computer when the temperature falls below a critical threshold.
 
 Features
-Real-Time Monitoring: Continuously tracks GPU temperature to keep you informed.
 
-Safe Shutdown: Automatically powers off the computer if the GPU temperature drops to a dangerously low level.
+Real-Time Monitoring:
+Continuously tracks GPU temperature to keep you informed.
+
+Safe Shutdown:
+Automatically powers off the computer if the GPU temperature drops to a dangerously low level.
 
 User-Friendly Interface: Simple to use, even for non-technical users.
 
 Installation
+
 Clone the repository:
 
-git clone https://github.com/mehdi-MMM/CoolGuard.git
+
+`git clone https://github.com/mehdi-MMM/CoolGuard.git`
+
+
 Navigate to the project directory:
 
-cd CoolGuard
+`cd CoolGuard`
+
 Install the required dependencies:
 
-dart pub get
+`dart pub get`
+
+
 Run the application:
 
-dart run
+`dart run`
+
 
 Usage:
+
 Launch the app and set your desired temperature threshold.
 
 CoolGuard will monitor the GPU temperature and ensure your system stays safe by shutting down when necessary.
@@ -31,4 +46,4 @@ CoolGuard will monitor the GPU temperature and ensure your system stays safe by 
 Additional Resources
 For more information on Flutter development, visit the Flutter documentation.
 
-"CoolGuard: Keeping your GPU chill so you can Netflix and chill! 😎❄️"
+**Because your GPU deserves to chill out as much as you do! 😎**
