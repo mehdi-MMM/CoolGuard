@@ -4,6 +4,7 @@ CoolGuard is a lightweight app designed to monitor your GPU temperature in real 
 Features
 🔥 Real-Time Monitoring: Continuously tracks your GPU temperature to prevent damage.
 🛡️ Safe Shutdown: Automatically powers off your computer if the GPU temperature drops to a dangerously low level.
+
 🖥️ User-Friendly Interface: Intuitive and simple to use, even for non-technical users.
 Installation
 Clone the repository:
