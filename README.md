@@ -7,13 +7,11 @@ Features
 🖥️ User-Friendly Interface: Intuitive and simple to use, even for non-technical users.
 Installation
 Clone the repository:
-bash
-Copy code
 git clone https://github.com/mehdi-MMM/CoolGuard.git
+
 Navigate to the project directory:
-
-
 cd CoolGuard
+
 Install the required dependencies:
 dart pub get
 
